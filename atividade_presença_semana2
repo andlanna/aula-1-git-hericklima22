@@ -1,0 +1,12 @@
+1)
+a. Git init – Inicia um novo repositório local.
+b. Git clone – inicia um repositório local a partir de um repositório remoto.
+c. Git branch – lista todas as branchs.
+d. Git checkout – migra de branch.
+e. Git fetch – traz o histórico das evoluções.
+f. Git pull – traz o histórico das evoluções e traz o repositório remoto para o local, alterando os arquivos.
+g. Git add – adiciona um arquivo ao staging.
+h. Git commit – salva as alterações no repositório local.
+i. Git push – manda os arquivos do repositório local para o remoto.
+
+2) A diferença do git pull para o git fetch é que um traz o histórico de evoluções e altera os arquivos na working direcroty, para ser iguais aos do repositório remoto, enquanto o outro somente mostra o histórico da evolução do projeto, respectivamente.
